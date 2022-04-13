@@ -5,11 +5,9 @@ import br.com.agenda.Model.Agenda;
 import br.com.agenda.Model.Medico;
 import br.com.agenda.Model.Paciente;
 import br.com.agenda.Model.StatusAgenda;
-
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-
 
 public class AgendaDao {
 

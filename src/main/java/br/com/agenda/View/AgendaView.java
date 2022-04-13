@@ -1,2 +1,4 @@
-package br.com.agenda.View;public class AgendaView {
+package br.com.agenda.View;
+
+public class AgendaView {
 }
